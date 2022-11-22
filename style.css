@@ -1,0 +1,35 @@
+#eu{
+    float: left;
+    height: 470px;
+}
+.image-container{
+    height: 100px;
+}
+
+div {
+    border: 2px solid black;
+}
+body {
+    background-color: rgb(161, 137, 201);
+}
+
+.nome,
+.desc {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.u {
+    font-size: 27px;
+}
+
+.g {
+    font-size: 27px;
+}
+
+.s {
+    font-size: 27px;
+}
+
+.p {
+    font-size: 27px;
+}
