@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: rgb(201, 201, 238);
+}
+h3 {
+    font-style: oblique;
+}
+.unix {
+    font-size: 20px;
+}
+.git {
+    font-size: 18px;
+}
+.html {
+    font-size: 16px;
+}
