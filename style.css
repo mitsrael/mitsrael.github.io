@@ -6,6 +6,7 @@ p {
 }
 body {
     background-color: rgb(201, 201, 238);
+    padding: 3%;
 }
 h3 {
     font-style: oblique;
@@ -18,4 +19,26 @@ h3 {
 }
 .html {
     font-size: 16px;
+}
+#meuNome {
+    text-align: center;
+}
+#minhaFoto {
+    float: left;
+    height: 330px;
+    padding: 10px;
+    background-color: aquamarine;
+
+}
+#foto-descricao {
+    height: 350px;
+    position: relative;
+}
+#descricao {
+    position: absolute;
+    top: 50%;
+    right: 20%;
+}
+ul li:nth-child(odd) {
+    background-color: whitesmoke;
 }
